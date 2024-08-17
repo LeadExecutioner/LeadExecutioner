@@ -6,6 +6,8 @@
 - 💬 Pronouns: He/him
 - ⚡ Fun fact: I enjoy playing RTS games :video_game:
 
+  Click [here](https://github.com/LeadExecutioner/Data-Science-Projects) to check some of my projects
+
 <!---
 LeadExecutioner/LeadExecutioner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
